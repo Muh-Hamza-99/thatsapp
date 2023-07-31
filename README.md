@@ -1,4 +1,4 @@
-# 📈 Thatsapp
+# 📲 Thatsapp
 
 # 📃 Description
 
